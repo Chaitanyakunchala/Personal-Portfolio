@@ -32,7 +32,7 @@ body {
 }
 
 .header .logo:hover {
-    color: #c2ff47; /* Hover color */
+    color: #c2ff47; 
 }
 
 .header nav ul {
@@ -55,13 +55,11 @@ body {
     align-items: center;
     gap: 5px;
     transition: color 0.3s;
-    /* padding-left: 40px;  */
     margin-right: 20px;
-    /* Add padding to the left */
 }
 
 .header nav ul li a:hover {
-    color: #c2ff47; /* Hover color */
+    color: #c2ff47;
 }
 
 /* Adjust the padding for the first item to shift the entire nav left */
